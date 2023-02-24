@@ -7,7 +7,7 @@ sudo apt update  && sudo apt -y upgrade && sudo apt -y install git && sudo apt -
 
 ## STEP 2
 ```sh
-curl -sL https://deb.nodesource.com/setup_17.x -o /tmp/nodesource_setup.sh && sudo bash /tmp/nodesource_setup.sh && sudo apt -y install nodejs
+curl -sL https://deb.nodesource.com/setup_18.x -o /tmp/nodesource_setup.sh && sudo bash /tmp/nodesource_setup.sh && sudo apt -y install nodejs
 ```
 
 ## STEP 3
