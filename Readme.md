@@ -12,10 +12,5 @@ curl -sL https://deb.nodesource.com/setup_17.x -o /tmp/nodesource_setup.sh && su
 
 ## STEP 3
 ```sh
-sudo add-apt-repository ppa:jonathonf/ffmpeg-4
-```
-
-## STEP 4
-```sh
 sudo apt -y  install ffmpeg && sudo apt -y  install webp
 ```
